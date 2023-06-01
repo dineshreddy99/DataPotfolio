@@ -24,7 +24,7 @@ Modify the table and column names in the queries to match your database structur
 Execute the SQL queries in the provided order to obtain the desired analysis results.
 Feel free to customize the queries or add new ones according to your specific requirements.
 
-Conclusion
+# Conclusion
 This project provides valuable insights into the COVID-19 pandemic by analyzing the available dataset. The SQL queries allow you to explore trends, patterns, and correlations related to COVID-19 cases, deaths, and vaccinations. I further created dashboard based on the data on tableau.
 https://public.tableau.com/shared/K6995GGQB?:display_count=n&:origin=viz_share_link
 
