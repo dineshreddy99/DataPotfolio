@@ -6,15 +6,16 @@ The dataset used for this project was obtained from Our World in Data. It includ
 
 # SQL Queries
 The project utilizes SQL queries to analyze the COVID-19 data. Here is an overview of the main queries used in the analysis:
-Selecting COVID-19 deaths data for countries with a specified continent.
-Data cleaning, including handling null values and converting date formats.
-Analyzing total cases vs. total deaths, providing insights into the chances of death if affected in a specific country.
-Analyzing total cases vs. population, showing the percentage of the population infected with COVID-19.
-Identifying countries with the highest infection rates relative to population.
-Identifying countries with the highest death rates.
-Analyzing death rates by continent.
-Obtaining worldwide COVID-19 statistics.
-Analyzing total population vs. vaccinations, examining the correlation between population and vaccination rates.
+1. Selecting COVID-19 deaths data for countries with a specified continent.
+2. Data cleaning, including handling null values and converting date formats.
+3. Analyzing total cases vs. total deaths, providing insights into the chances of death if affected in a specific country.
+4. Analyzing total cases vs. population, showing the percentage of the population infected with COVID-19.
+5. Identifying countries with the highest infection rates relative to population.
+6. Identifying countries with the highest death rates.
+7. Analyzing death rates by continent.
+8. Obtaining worldwide COVID-19 statistics.
+9. Analyzing total population vs. vaccinations, examining the correlation between population and vaccination rates.
+
 # How to Use
 To run these SQL queries and perform your own analysis:
 Make sure you have a SQL database management system installed (I used Microsoft SQL Server).
