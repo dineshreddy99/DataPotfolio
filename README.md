@@ -6,8 +6,7 @@ The dataset used for this project was obtained from Our World in Data. It includ
 
 # SQL Queries
 The project utilizes SQL queries to analyze the COVID-19 data. Here is an overview of the main queries used in the analysis:
-
-# Selecting COVID-19 deaths data for countries with a specified continent.
+Selecting COVID-19 deaths data for countries with a specified continent.
 Data cleaning, including handling null values and converting date formats.
 Analyzing total cases vs. total deaths, providing insights into the chances of death if affected in a specific country.
 Analyzing total cases vs. population, showing the percentage of the population infected with COVID-19.
